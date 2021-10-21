@@ -150,5 +150,3 @@ promptUser()
   .catch(err => {
     console.log(err);
   });
-
-const pageHTML = generatePage();
